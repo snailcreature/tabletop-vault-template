@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "campaigns/exampleCampaign/player_characters/README.md.md",
+            "file": "campaigns/exampleCampaign/enemy_stats/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campaigns/exampleCampaign/player_characters/README.md.md",
+                "file": "campaigns/exampleCampaign/enemy_stats/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "640281e65f09d5e4",
   "lastOpenFiles": [
-    "campaigns/exampleCampaign/player_characters/README.md.md",
-    "campaigns/exampleCampaign/npcs/README.md.md",
-    "campaigns/exampleCampaign/enemy_stats/README.md.md",
+    "campaigns/exampleCampaign/enemy_stats/README.md",
+    "README.md",
+    "campaigns/exampleCampaign/sessions/README.md",
+    "campaigns/exampleCampaign/player_characters/README.md",
+    "campaigns/exampleCampaign/npcs/README.md",
     "templates/session_template.md",
-    "campaigns/README.md.md",
-    "world/README.md.md",
-    "README.md.md",
+    "campaigns/README.md",
+    "world/README.md",
     "campaigns/exampleCampaign/Untitled.md",
-    "templates/pc_template.md",
-    "templates/npc_template.md"
+    "templates/pc_template.md"
   ]
 }
