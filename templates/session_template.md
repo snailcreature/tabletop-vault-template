@@ -2,6 +2,7 @@
 {date}
 Starting Location:
 Finishing Location:
+## Planned Encounters
 ## Brief Summary
 ## NPCs Met
 ## Quests Given

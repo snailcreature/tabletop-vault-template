@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "140795d50fca9b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "640281e65f09d5e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "campaigns/exampleCampaign/player_characters/README.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "962a43fabf6b6af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3116acd85f5015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2af4a311470c6cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a712cf5bba07811f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c8f84c16a813fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0048a8a4f0d731e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cebeb60c5e71e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "campaigns/exampleCampaign/player_characters/README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520621203b15c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "640281e65f09d5e4",
+  "lastOpenFiles": [
+    "campaigns/exampleCampaign/player_characters/README.md.md",
+    "campaigns/exampleCampaign/npcs/README.md.md",
+    "campaigns/exampleCampaign/enemy_stats/README.md.md",
+    "templates/session_template.md",
+    "campaigns/README.md.md",
+    "world/README.md.md",
+    "README.md.md",
+    "campaigns/exampleCampaign/Untitled.md",
+    "templates/pc_template.md",
+    "templates/npc_template.md"
+  ]
+}
